@@ -1,5 +1,14 @@
 # Changelog
 
+## [3.5.1](https://github.com/floatme-corp/release-please-action/compare/v3.5.0...v3.5.1) (2022-10-04)
+
+
+### Bug Fixes
+
+* bump release-please from 14.5.0 to 14.10.2 ([23bedaa](https://github.com/floatme-corp/release-please-action/commit/23bedaa9d6195a972c164110c09622cad41d0c51))
+* **release:** de-googleize ([e2eca3f](https://github.com/floatme-corp/release-please-action/commit/e2eca3f64dc562234754c1782db0c6c462b50ba4))
+* **release:** remove bot token ([9341733](https://github.com/floatme-corp/release-please-action/commit/9341733d3171aad83bef585c3662bf85064abb6b))
+
 ## [3.5.0](https://github.com/google-github-actions/release-please-action/compare/v3.4.1...v3.5.0) (2022-09-08)
 
 
