@@ -90,7 +90,7 @@ jobs:
       - id: release-pr
         uses: floatme-corp/release-please-action@main
         with:
-          token: ${{ secrets.ACTIONS_BOT_TOKEN }}
+          token: ${{ secrets.SERVICE_ACCOUNT_TOKEN}}
           release-type: node
           fork: true
           package-name: ${{env.ACTION_NAME}}
