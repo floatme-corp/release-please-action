@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.5.2](https://github.com/floatme-corp/release-please-action/compare/v3.5.1...v3.5.2) (2022-10-24)
+
+
+### Bug Fixes
+
+* bump release-please from 14.10.2 to 14.13.2 ([471cd0a](https://github.com/floatme-corp/release-please-action/commit/471cd0a460a5099ececc81f597573acd1a6e5206))
+
 ## [3.5.1](https://github.com/floatme-corp/release-please-action/compare/v3.5.0...v3.5.1) (2022-10-04)
 
 
